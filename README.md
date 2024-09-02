@@ -60,4 +60,4 @@ This website was built by [Your Name], using HTML and CSS. The design and layout
 
 ## License
 
-This website is licensed under the [optional: mention the license used, e.g. MIT License].
+
